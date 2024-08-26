@@ -37,25 +37,25 @@ export const SliderData = [
   {
       id: 1,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: "Celebrate Tradition Without Compromise: High-Quality Handloom Sarees at Fair Prices.",
       cover: sofaSlide,
   },
   {
       id: 2,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: "Crafted with Care, Priced with Integrity: Explore Our Range of Handloom Sarees for Every Budget.",
       cover: phone08,
   },
   {
       id: 3,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: "Handloom Sarees That Tell a Story: Authentic Craftsmanship, Affordable Prices, Unmatched Quality.",
       cover: BanarasiSarees01,
   },
   {
       id: 4,
       title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+      desc: "Artistry in Every Thread: Handloom Sarees Designed for Elegance and Value.",
       cover: watchSlide,
   },
 ];
@@ -64,13 +64,13 @@ export const serviceData = [
   {
     icon: <ion-icon name="shield-half-outline"></ion-icon>,
     title: "Hand Crafted Sarees",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "We offer a satisfaction guarantee to ensure you’re happy with your handloom saree purchase.",
     bg: "#e2f2b2",
   },
   {
     icon: <ion-icon name="card"></ion-icon>,
     title: "100% Genunine ",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Our secure payment system ensures your financial details are protected with every transaction.",
     bg: "#ceebe9",
   },
 
@@ -78,15 +78,15 @@ export const serviceData = [
     
     icon: <ion-icon name="car"></ion-icon>,
     title: "World Wide Shipping",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Enjoy the convenience of our international shipping service, delivering handloom sarees to your doorstep, no matter where you are.",
     bg: "#fdefe6",
   },
 
 
   {
     icon: <ion-icon name="headset"></ion-icon>,
-    title: " Back Guarantee",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    title: " Back up Guarantee",
+    subtitle: "We offer a satisfaction guarantee to ensure you’re happy with your handloom saree purchase.",
     bg: "#d6e5fb",
   },
 ];
