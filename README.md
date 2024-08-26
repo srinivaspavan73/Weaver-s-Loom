@@ -1,11 +1,12 @@
-# Maltimart Ecommerce
+# weaver's loom
+
 
 ## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
+https://weavers-loom.netlify.app/
 
-## 😎 Features
+## Features
 
-- Beauty UI similar to ecommerce website
+
 - Fully responsive and mobile friendly
 - User can add items to cart
 - User can view details of an item
@@ -25,13 +26,9 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/0mar-helal/multimart-react-ecommerce.git
+$ https://github.com/srinivaspavan73/Weaver-s-Loom.git
 
-# Go into the repository
-$ cd multimart-react-ecommerce
-
-# Remove current origin repository
-$ git remote remove origin
+# Or just download the zip file code.
 
 ```
 
